@@ -1,0 +1,60 @@
+*{
+    padding: 0; margin: 0; box-sizing: border-box;
+}
+.main{
+    background-color: #D7F5DC;
+    height: 780px;
+    width: 100%;
+}
+.second{
+    background-color: white;
+    height: 500px;
+    width: 100%;
+}
+.head1{
+    color: #20B15A;
+    margin-top: 50px;
+}
+.third{
+    background-color: #E2F9E0;
+    height: 280px;
+    width: 100%;
+}
+.fourth{
+    height: 1200px;
+    width: 100%;
+}
+.MainDiv{
+    display: flex;
+    height: 1000px;
+    
+}
+.ac{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.fd{
+    height: 43px;
+    background-color: white;
+    width: 500px;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.fd input{
+    border: none;
+    width: 380px;
+   height: 38px;
+}
+.buttons{
+    border-radius: 5px;
+    border: orangered;
+    height: 38px;
+    width:90px;
+}
+.fifth{
+    height: 400px;
+}
